@@ -27,7 +27,7 @@ Our goal is to accurately forecast a player's performance in upcoming matches.
 The effectiveness of our prediction models will be assessed using standard machine learning metrics like mean squared error (MSE) or accuracy, depending on the nature of the prediction task.
 We aim to fine-tune our models to achieve the best possible performance.
 
-<<h1>Conclusion</
+<h1>Conclusion</h1>
 The Cricket Player Performance Prediction project is an exciting endeavor that combines the love of cricket with the power of machine learning. By the end of this project, we hope to provide valuable insights into player performance, aiding cricket enthusiasts and analysts alike.
 
 Thank you for exploring this project, and we look forward to sharing our findings and predictive models with you.
